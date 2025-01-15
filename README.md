@@ -1,9 +1,5 @@
 ### Hi there, I'm Katsiaryna Mizhuryna - Frontend Developer 👋
-  <p>I'm a dedicated and enthusiastic individual who has recently embarked on a career transition into the field of web development.🌟</p>
-    <p> While I may not have a formal track record in the industry, my passion for coding and my commitment to learning have driven me to immerse myself in various aspects of front-end development🌟</p>   
-   <p>Let's connect and explore exciting opportunities together! 🚀🌟</p> 
-    <br>
-    <br>
+  
   <p align='center'>
    <a href="https://www.linkedin.com/in/katsiaryna-mizhuryna-35278b257/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,8 +21,7 @@
 <img src='https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white'>
 <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
   </p>
-  <p>🌐 Exploring AWS:
-One of the areas I'm particularly excited about is my journey into AWS. As cloud computing continues to reshape the tech landscape, I'm proactively educating myself on AWS services and best practices. </p>
+  
 <!--
 **KatsiarynaMizhuryna/KatsiarynaMizhuryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
